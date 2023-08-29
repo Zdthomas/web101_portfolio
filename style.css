@@ -47,6 +47,13 @@ body {
     padding: 20px;
   }
 
+  .Contact {
+    border-radius: 25px;
+    border: 2px solid greenyellow;
+    background: none;
+    padding: 20px;
+  }
+
   nav {
     display: flex;
     justify-content: flex-end;
